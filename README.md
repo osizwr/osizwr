@@ -12,7 +12,7 @@
 
 - :school: I am a `3rd Year Computer Science Student` at [Palawan State University](https://psu.palawan.edu.ph/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a Competitive Programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a Competitive Programmer.
 - :student: I’m currently learning `Backend developing` using `Django Software`.
 - :nerd_face: Always `Learning New Things`.
 <br>
