@@ -10,11 +10,11 @@
 
 <br><br>
 
-- :school: I am a `3rd Year Computer Science Student` at [Palawan State University](https://psu.palawan.edu.ph/).
+- :school: I am a `4th Year Computer Science Student` at [Palawan State University](https://psu.palawan.edu.ph/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a Competitive Programmer.
 - :student: I’m currently learning `Backend developing` using `Django Software`.
-- :nerd_face: Always `Learning New Things`.
+- :nerd_face: I consider myself as a `Fullstack Developer` since I already learned every basics on backend and frontend.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
