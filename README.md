@@ -13,8 +13,8 @@
 - :school: I am a `4th Year Computer Science Student` at [Palawan State University](https://psu.palawan.edu.ph/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a Competitive Programmer.
-- :student: I am currently learning and practicing `Vue.js with Vite` for modern front-end development.
-- :nerd_face: Aspiring `Full-Stack Developer`, skilled in the basics of front-end and back-end development, currently expanding expertise with Vue.js and Vite.
+- :student: I am currently learning and practicing `Next.js+React` for modern front-end development `+ supabase`.
+- :nerd_face: Aspiring `Full-Stack Developer`, currently expanding expertise.
 <br>
 
 | <a href="https://github.com/osizwr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=osizwr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="osizwr's github stats" /></a> | <a href="https://github.com/osizwr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osizwr&layout=compact&theme=buefy&hide_border=true" /></a> |
